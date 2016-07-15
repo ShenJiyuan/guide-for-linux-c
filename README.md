@@ -1,6 +1,6 @@
 # guide-for-linux-c
 
-In this directory, I will put some simple linux C codes for you to get started. All codes are written when I was studying Operating System Class in SJTU including file copy, shell-like programing, threading and IPC problem. Welcome to give any suggestions and advice.
+In this directory, I will put some simple linux C codes for you to get started. All codes were written when I was studying Operating System Class in SJTU including file copy, shell-like programing, threading and IPC problem. Welcome to give any suggestions and advice.
 
 # list
 
